@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning Flink
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jeffreywaaaaaaa&theme=highcontrast&show_icons=true&count_private=true)
-
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
+
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
 <!--
 **jeffreyWaaaaaaa/jeffreyWaaaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
